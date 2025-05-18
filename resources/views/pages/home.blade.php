@@ -28,7 +28,7 @@
 	
 			<p class="tw-text-dark_gray tw-w-[90%] sm:tw-w-[89%] md:tw-w-[90%] lg:tw-w-[80%] xl:tw-w-[600px] tw-text-[13px] sm:tw-text-[15px] md:tw-text-[13px] xl:tw-text-[16px]">Chez CIMENT.CO, nous comprenons l'importace de la qualite et de la fiabilite dans vos projets de construction. Que vous soyez un professionnel du batiment ou bricoleur passionne, nous sommes la pour vous fournir le meilleur ciment a des prix competitifs.</p>
 	
-			<a href="{{ route('sell')}}"><button  class="tw-bg-black tw-text-white tw-py-[12px] tw-rounded-triple tw-w-[60%] sm:tw-w-[55%] md:tw-w-[60%] lg:tw-w-[55%] xl:tw-w-[300px] tw-text-[13px] sm:tw-text-[16px] md:tw-text-[13px] lg:tw-text-[16px] tw-font-roboto tw-font-black">Vender maintenant</button></a>
+			<a href="{{ route('sell')}}"><button  class="tw-bg-black tw-text-white tw-py-[12px] tw-rounded-triple tw-w-[60%] sm:tw-w-[55%] md:tw-w-[60%] lg:tw-w-[55%] xl:tw-w-[300px] tw-text-[13px] sm:tw-text-[16px] md:tw-text-[13px] lg:tw-text-[16px] tw-font-roboto tw-font-black">Publier du ciment</button></a>
 		</div>
 	
 		<div class="tw-relative tw-mt-[80px]">

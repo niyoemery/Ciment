@@ -61,7 +61,7 @@ class Orders extends Controller
         Order_items::create([
             'id_order' => $order->id,
             'id_item' => $item->id,
-            'quantity' => $item->quantity
+            'quantity' => $quantity
         ]); 
 
         return redirect()->route('details', base64_encode($id))->with('success', 'Vente effectuee avec succes');
